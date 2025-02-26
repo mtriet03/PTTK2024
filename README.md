@@ -1,5 +1,5 @@
 # PTTK2024
-## 🏗️ System Design Approach
+## Information System Analysis and Design Project
 We followed a structured **Information System Analysis & Design** process, covering:
 - **Requirements Analysis** – Identified system needs and security objectives.
 - **Business Use-Case Modeling** – Defined system interactions and workflows.
