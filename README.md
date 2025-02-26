@@ -19,3 +19,9 @@ We followed a structured **Information System Analysis & Design** process, cover
 - **User Interface Design** – Developed a **Windows Forms UI** for user interactions.
 - **Security Implementation** – Applied **fine-grained access control, encryption, and auditing**.
 - **3-Layer Architecture** – Used a structured **Presentation Layer, Business Logic Layer, and Data Access Layer** for maintainability.
+
+## Tech Stack
+- Application: WinForms
+- UI Design: Figma
+- Modeling: Enterprise Architect, draw.io
+- Data Storage: Oracle Database
